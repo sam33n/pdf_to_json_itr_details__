@@ -3,7 +3,7 @@ import os
 
 
 path = os.getcwd()
-pdf_path = path + '/Downloads/itr_details.pdf'
+pdf_path = path +  '/itr_details.pdf'
 
 with open(pdf_path, 'rb') as f:
     pdf = pdftotext.PDF(f)
@@ -96,14 +96,16 @@ category2 = {
 }
 
 c_dict = {
-    new_items[99][7:] : new_items[100],
-    new_items[101] : new_items[102][:8],
-             new_items[102][10:] : new_items[103],
-             new_items[104][:15] : new_items[104][16:],
-             new_items[106][:2]: new_items[106][3:],
-             new_items[105][:2]: new_items[105][3:]
+     new_items[99][7:] : new_items[100],
+     new_items[101] : new_items[102][:8],
+     new_items[102][10:] : new_items[103],
+     new_items[104][:15] : new_items[104][16:],
+     new_items[106][:2]: new_items[106][3:],
+     new_items[105][:2]: new_items[105][3:],
+     new_items[107][-18:] : new_items[107][:-19]
 
 }
+
 
 
 
@@ -112,7 +114,7 @@ _dict = {**page_title, **category1, **category2, **c_dict}
 #dumping dictionary objects
 import json
 json_obj = json.dumps(_dict, indent=4)
-#print(json_obj)
+print(json_obj)
 
 
 
@@ -120,3 +122,6 @@ json_obj = json.dumps(_dict, indent=4)
 
 with open('itr_details.json', 'w') as op_file:
     op_file.write(json_obj)
+
+
+

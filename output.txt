@@ -1,0 +1,49 @@
+                                           INDIAN INCOME TAX RETURN ACKNOWLEDGEMENT                                                                           Assessment Year
+                                                 [Where the data of the Return of Income in Form ITR-1 (SAHAJ), ITR-2, ITR-3,
+                                                   ITR-4 , ITR-5, ITR-6,ITR-7 transmitted electronically with digital signature]
+                                                                                                                                                                2018-19
+                                            Name                                                                                                PAN
+                                            RESURGENT ENTREPRENEURS PRIVATE LIMITED                                                               AAFCP0047G
+ PERSONAL INFORMATION AND THE
+                                            Flat/Door/Block No                             Name Of Premises/Building/Village                   Form No. which
+                                            AE-634                                                                                             has been
+                                                                                                                                               electronically      ITR-6
+                                                                                                                                               transmitted
+     DATE OF ELECTRONIC
+                                            Road/Street/Post Office                        Area/Locality
+                                            SALT LAKE CITY                                 SECTOR-1
+                                                                                                                                                           Pvt Company
+                                                                                                                                                Status
+                                            Town/City/District                             State                             Pin/ZipCode Aadhaar Number/Enrollment ID
+        TRANSMISSION
+                                            KOLKATA                                        WEST BENGAL
+                                                                                                                              700091
+                                            Designation of AO(Ward/Circle) ITO WD 2(1)                                                         Original or Revised ORIGINAL
+                                            E-filing Acknowledgement Number                313664731290918                           Date(DD/MM/YYYY)             29-09-2018
+                                             1   Gross total income                                                                                1                       95766
+                                             2   Deductions under Chapter-VI-A                                                                     2                           0
+                                             3   Total Income                                                                                      3                       95770
+ COMPUTATION OF INCOME
+                                             3a Current Year loss, if any                                                                          3a                          0
+                                                                                                                                                   4                       45272
+                         AND TAX THEREON
+                                             4     Net tax payable
+                                             5   Interest and Fee Payable                                                                          5                        5031
+                                             6   Total tax, interest and Fee payable                                                               6                       50303
+                                                                          a     Advance Tax                    7a                          0
+                                             7   Taxes Paid
+                                                                          b     TDS                            7b                          0
+                                                                          c     TCS                            7c                          0
+                                                                          d     Self Assessment Tax            7d                      50300
+                                                                          e     Total Taxes Paid (7a+7b+7c +7d)                                    7e                      50300
+                                             8   Tax Payable (6-7e)                                                                                   8                        0
+                                             9   Refund (7e-6)                                                                                        9                        0
+                                                                                       Agriculture                                                 10
+                                            10   Exempt Income
+                                                                                       Others
+This return has been digitally signed by                                      MANISH KEDIA                                       in the capacity of       DIRECTOR
+ having PAN                                      AIAPK0496N           from IP Address 171.79.93.239                          at KOLKATA
+                                                                                                           on 29-09-2018 16:29:29
+                                                      2409160092508236211CN=SafeScrypt sub-CA for RCAI Class 2 2014,OU=Sub-CA,O=Sify Technologies Limited,C=IN
+Dsc Sl No & issuer
+                                  DO NOT SEND THIS ACKNOWLEDGEMENT TO CPC, BENGALURU
