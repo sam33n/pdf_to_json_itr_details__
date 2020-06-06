@@ -1,0 +1,52 @@
+{
+    "Title": "INDIAN INCOME TAX RETURN ACKNOWLEDGEMENT",
+    "Description": [
+        "[Where the data of the Return of Income in Form ITR-1 (SAHAJ), ITR-2, ITR-3,",
+        "ITR-4 , ITR-5, ITR-6,ITR-7 transmitted electronically with digital signature]"
+    ],
+    "Assessment Year": "2018-19",
+    "category": " PERSONAL INFORMATION AND THE DATE OF ELECTRONIC TRANSMISSION",
+    "info": {
+        "Name": "RESURGENT ENTREPRENEURS PRIVATE LIMITED",
+        "PAN": "AAFCP0047G",
+        "Flat/Door/Block No": "AE-634",
+        "Name Of Premises/Building/Village": null,
+        "Form No. which has been electronically transmitted": "ITR-6",
+        "Road/Street/Post Office": "SALT LAKE CITY",
+        "Area/Locality": "SECTOR-1",
+        "Status": "Pvt Company",
+        "Town/City/District": "KOLKATA",
+        "State": "WEST BENGAL",
+        "Pin/ZipCode": "700091",
+        " Aadhaar Number/Enrollment ID": null,
+        "Designation of AO(Ward/Circle)": " ITO WD 2(1)",
+        "Original or Revised": "ORIGINAL",
+        "E-filing Acknowledgement Number": "313664731290918",
+        "Date(DD/MM/YYYY)": "29-09-2018"
+    },
+    "category2": "COMPUTATION OF INCOME AND TAX THEREON",
+    "info2": {
+        "Gross total income": "95766",
+        "Deductions under Chapter-VI-A": "0",
+        "Total Income": "95770",
+        "Net tax payable": "45272",
+        "Interest and Fee Payable": "5031",
+        "Total tax, interest and Fee payable": "50303",
+        "Taxes Paid": {
+            "Advance Tax": "0",
+            "TDS": "0",
+            "TCS": "0",
+            "Self Assessment Tax": "50300",
+            "Total Taxes Paid (7a+7b+7c +7d)": "50300"
+        },
+        "Tax Payable (6-7e)": "0",
+        "Refund (7e-6)": "0",
+        "Exempt Income": null
+    },
+    "This return has been digitally signed by": "MANISH KEDIA",
+    "in the capacity of": "DIRECTOR",
+    "having PAN": "AIAPK0496N",
+    "from IP Address": "171.79.93.239",
+    "on": "29-09-2018 16:29:29",
+    "at": "KOLKATA"
+}

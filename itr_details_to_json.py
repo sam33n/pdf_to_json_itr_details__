@@ -15,7 +15,7 @@ with open('output.txt', 'w') as f:
 with open('output.txt', 'rb') as file:
     data = file.read().decode('utf-8')
 
-
+#preprocessing data
 
 a_list = data.strip('\n').split('  ')
 
@@ -26,11 +26,7 @@ for item in a_list:
         without_empty_strings.append(item)
 
 new_items = [ item.strip() for item in without_empty_strings ]
-#dictionary object
-
-
-
-
+#dictionary objects
 
 heading = new_items[8][11:] +' ' + new_items[17] + ' ' +new_items[27]
 
@@ -66,7 +62,8 @@ category1 = {
     'category':heading,
     'info':a_dict
 }
-#print(category1)
+
+
 new_string = new_items[48][7:] + ' ' + new_items[54]
 
 b_dict = {}
@@ -96,7 +93,6 @@ b_dict[new_items[98]] = None
 category2 = {
     'category2' : new_string,
     'info2' : b_dict
-
 }
 
 c_dict = {
@@ -113,7 +109,14 @@ c_dict = {
 
 _dict = {**page_title, **category1, **category2, **c_dict}
 
-
+#dumping dictionary objects
 import json
 json_obj = json.dumps(_dict, indent=4)
-print(json_obj)
+#print(json_obj)
+
+
+
+#writing to json file
+
+with open('itr_details.json', 'w') as op_file:
+    op_file.write(json_obj)
